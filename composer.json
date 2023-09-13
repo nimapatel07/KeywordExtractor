@@ -15,7 +15,7 @@
     ],
     "require": {
       "keyword/keyword-extractor": "1.0.0"
-    }
+    },
     "extra": {
         "class": "Keyword\\Extractor\\Plugin"
     }
