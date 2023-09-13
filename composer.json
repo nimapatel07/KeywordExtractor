@@ -1,7 +1,6 @@
 {
     "name": "keyword/keyword-extractor",
     "description": "This is used to extractor keyword form the given description and return list of keywords.",
-    "type": "composer-plugin",
     "autoload": {
         "psr-4": {
             "KeywordExtractor\\": "src/"
